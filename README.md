@@ -9,7 +9,7 @@ We realize it by two different languages. The first one is programmed in Matlab 
 ## usage
 ## For Matlab version:
 ### Needs:
-   Matlab
+* Matlab
 ### Steps：
 * Clone and download all files in LibFinder
 * Change the root folder of Matlab to the folder of 'Libfinder'
@@ -19,7 +19,7 @@ We realize it by two different languages. The first one is programmed in Matlab 
 
 ## For Python version:
 ### Needs:
-   .apk files
+* .apk files
 ### Steps:
 * Visit http://www.libfinder.com (to be continued)
 * Use LibFinder step by step according to the hints 
