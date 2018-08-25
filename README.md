@@ -6,8 +6,7 @@ We realize it by two different languages. The first one is programmed in Matlab 
 * Matlab version has a GUI and you can choose the libraries your app has invoked, then LibFinder will give you new recommendations. So you'd better known your app well before using it.
 * Python version can analyse your app automaticly, even you known nothing about your app, then give you some recommendations.
 
-## usage
-## For Matlab version:
+## Usage of Matlab version:
 ### Needs:
 * Matlab
 ### Steps：
@@ -17,7 +16,7 @@ We realize it by two different languages. The first one is programmed in Matlab 
 * Open 'LibFinder.m'
 * Cheers
 
-## For Python version:
+## Usage of Python version:
 ### Needs:
 * .apk files
 ### Steps:
