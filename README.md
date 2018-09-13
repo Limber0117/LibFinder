@@ -20,6 +20,6 @@ We realize it by two different languages. The first one is programmed in Matlab 
 ### Needs:
 * .apk files
 ### Steps:
-* Visit http://144.6.227.42 (on Nectar) 
+* Visit http://144.6.225.20 (on Nectar) 
 * Use LibFinder step by step according to the hints 
 * Cheers
